@@ -18,4 +18,5 @@
 
 
 <p align="center">我是 <a href="https://resume.aiju.fun/">Carlo <a>，<a href="https://aiju.fun/">爱聚娱乐<a>站长，专注于互联网的分享和传播。佛系技术，默默坚守。</p>
+<p align="center">I'm <a href="https://resume.aiju.fun/">Carlo <a>，<a href="https://aiju.fun/">Love Gather Entertainment<a>webmaster，Focusing on the sharing and dissemination of the internet. Embracing a Buddhist-style approach to technology, silently persevering.。</p>
   
