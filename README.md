@@ -1,3 +1,8 @@
+![](https://raw.githubusercontent.com/mr-shitij/mr-shitij/main/header_.png)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Systems+Architect;VR+Developer;IoT+Enthusiast;Blockchain+Explorer;Robotics+Innovator;Space+Enthusiast;Cybersecurity+Enthusiast;Drone+Tech+Pioneer&center=true&width=380&height=50">
+</p>
+
 <p align="center">
   <a href="https://github.com/a67793581">
     <img src="https://github-readme-stats.vercel.app/api?username=a67793581&count_private=true&show_icons=true&hide=contribs&include_all_commits=true" />
@@ -8,12 +13,7 @@
   <a href="https://aiju.fun/">
     <img src="https://img.shields.io/badge/web-%E7%88%B1%E8%81%9A%E5%A8%B1%E4%B9%90-5bc648?logo=Embarcadero&style=for-the-badge" />
   </a>
-  <a href="http://wpa.qq.com/msgrd?v=3&uin=284474102&site=qq&menu=yes">
-    <img src="https://img.shields.io/badge/QQ-284474102-5bc648?logo=Tencent%20QQ&style=for-the-badge" />
-  </a>
-  <a href="https://resume.aiju.fun/">
-    <img src="https://img.shields.io/badge/EMail-284474102@qq.com-5bc648?logo=Mail%2ERu&style=for-the-badge" />
-  </a>
+  <a href="mailto:jiangbingjie1218@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
 
