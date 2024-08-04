@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mr-shitij/mr-shitij/main/header_.png)
+![](https://raw.githubusercontent.com/a67793581/a67793581/main/imgs/header_.png)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Systems+Architect;VR+Developer;IoT+Enthusiast;Blockchain+Explorer;Robotics+Innovator;Space+Enthusiast;Cybersecurity+Enthusiast;Drone+Tech+Pioneer&center=true&width=380&height=50">
 </p>
